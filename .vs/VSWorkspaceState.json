@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\assets",
+    "\\server",
+    "\\server\\src",
+    "\\server\\src\\api",
+    "\\server\\src\\api\\item",
+    "\\server\\src\\api\\item\\services",
+    "\\server\\src\\extensions"
+  ],
+  "PreviewInSolutionExplorer": false
+}
